@@ -1,5 +1,4 @@
 import React from "react";
-import "./Cities.css";
 
 
 export default function Cities(){
